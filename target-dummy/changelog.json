@@ -8,5 +8,6 @@
   "changes": [
     "* Code optimization.",
     "* Slightly improved the texture of the Target Dummy"
-  ]
+  ],
+  "experiments": false
 }
